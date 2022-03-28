@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062250442699",
+    "project_id": "codingshef-chatapp",
+    "storage_bucket": "codingshef-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062250442699:android:367c83e1b12d586625904e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062250442699-av0a9qfjpv9231oh3imr5d9c8iqq1b86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx3ckumc20jCABP_VHjErV8eb622vRi4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062250442699-av0a9qfjpv9231oh3imr5d9c8iqq1b86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
